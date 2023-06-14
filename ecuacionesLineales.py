@@ -54,3 +54,4 @@ ax.plot((sol[0],),(sol[1],),(sol[2],),lw=2,c='k',marker='o',markersize=7,markere
 #NOMBRES A LOS EJES
 ax.set_xlabel('X');ax.set_ylabel('Y');ax.set_zlabel('Z')
 plt.show()
+print("GRACIAS")
